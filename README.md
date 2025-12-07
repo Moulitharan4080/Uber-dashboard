@@ -71,15 +71,3 @@ DAX
 Data Modeling
 
 Data Visualization
-
-
-
-README.md
-
-If you want, I can help you:
-✔ format this README like a portfolio case study
-✔ export your dashboard preview as an image
-✔ create a one-slide summary for LinkedIn
-✔ write a project description for your resume
-
-ChatGPT can make mistakes. Chec
